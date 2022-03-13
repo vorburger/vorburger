@@ -9,6 +9,7 @@
 - [exec](https://github.com/vorburger/ch.vorburger.exec) and [fswatch](https://github.com/vorburger/ch.vorburger.fswatch) and [xtendbeans](https://github.com/vorburger/xtendbeans) Java libs; [etcd for ODL](https://github.com/vorburger/opendaylight-etcd) w. [jetcd](https://github.com/etcd-io/jetcd/commits?author=vorburger); the [LastNPE.org](http://www.lastnpe.org) and [M2E for CS/SB/PMD](https://github.com/m2e-code-quality); also [Quarkus](https://github.com/search?p=4&q=org%3Aquarkusio+vorburger&type=Issues).
 - [Top #3 Contributor](http://blog2.vorburger.ch/2019/02/my-years-in-opendaylight.html) with [3,728 commits](https://github.com/search?p=5&q=user%3Aopendaylight+author%3Avorburger&type=Commits) from [thousands of Gerrits](https://git.opendaylight.org/gerrit/q/owner:vorburger) in [OpenDaylight.org](https://www.opendaylight.org) ~2016-2018 ([🎥 conferences](https://www.youtube.com/results?search_query=michael+vorburger+opendaylight)).
 - [~20k other commits](https://github.com/search?l=&p=1&q=author%3Avorburger+-user%3Avorburger&ref=advsearch&type=Commits).
+- Log4j? [OMG!](https://github.com/vorburger/Log4j_CVE-2021-44228)
 
 <!--
 **vorburger/vorburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
